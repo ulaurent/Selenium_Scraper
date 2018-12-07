@@ -1,0 +1,11 @@
+/Users/urbensonlaurent/Documents/Selenium Overview/Yahoo_Scrape/Yahoo_Scrape/obj/Debug/netcoreapp2.1/Yahoo_Scrape.csprojAssemblyReference.cache
+/Users/urbensonlaurent/Documents/Selenium Overview/Yahoo_Scrape/Yahoo_Scrape/obj/Debug/netcoreapp2.1/Yahoo_Scrape.csproj.CoreCompileInputs.cache
+/Users/urbensonlaurent/Documents/Selenium Overview/Yahoo_Scrape/Yahoo_Scrape/obj/Debug/netcoreapp2.1/Yahoo_Scrape.AssemblyInfoInputs.cache
+/Users/urbensonlaurent/Documents/Selenium Overview/Yahoo_Scrape/Yahoo_Scrape/obj/Debug/netcoreapp2.1/Yahoo_Scrape.AssemblyInfo.cs
+/Users/urbensonlaurent/Documents/Selenium Overview/Yahoo_Scrape/Yahoo_Scrape/bin/Debug/netcoreapp2.1/Yahoo_Scrape.deps.json
+/Users/urbensonlaurent/Documents/Selenium Overview/Yahoo_Scrape/Yahoo_Scrape/bin/Debug/netcoreapp2.1/Yahoo_Scrape.runtimeconfig.json
+/Users/urbensonlaurent/Documents/Selenium Overview/Yahoo_Scrape/Yahoo_Scrape/bin/Debug/netcoreapp2.1/Yahoo_Scrape.runtimeconfig.dev.json
+/Users/urbensonlaurent/Documents/Selenium Overview/Yahoo_Scrape/Yahoo_Scrape/bin/Debug/netcoreapp2.1/Yahoo_Scrape.dll
+/Users/urbensonlaurent/Documents/Selenium Overview/Yahoo_Scrape/Yahoo_Scrape/bin/Debug/netcoreapp2.1/Yahoo_Scrape.pdb
+/Users/urbensonlaurent/Documents/Selenium Overview/Yahoo_Scrape/Yahoo_Scrape/obj/Debug/netcoreapp2.1/Yahoo_Scrape.dll
+/Users/urbensonlaurent/Documents/Selenium Overview/Yahoo_Scrape/Yahoo_Scrape/obj/Debug/netcoreapp2.1/Yahoo_Scrape.pdb
